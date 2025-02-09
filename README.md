@@ -1,0 +1,3 @@
+This project required a visualization for an earthquake data set. I requested geoJSON data from a URL and used that data to fuel my visualization, sorting each earthquake by magnitude and depth with different colors representing depth ranges and radius changes for the different magnitudes.
+I also created a legend describing the different colors for the different ranges of depths.
+For this project, I referenced code from the leaflet website for help with creating the legend on the bottom right. I referenced code specifically from the interactive chloropleth map on how to enhance custom legend control. 
